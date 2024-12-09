@@ -1,2 +1,4 @@
 def hellowrld():
-    pass
+    print("hello world")
+
+helloworld()
