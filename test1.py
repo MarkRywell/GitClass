@@ -1,2 +1,2 @@
 def test1():
-    pass
+    print("test")
